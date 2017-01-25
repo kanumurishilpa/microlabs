@@ -1,6 +1,5 @@
 // A jolly message is written to the screen!
-class Jollymessage 
-{
+public class JollyMessage{
 
    public static void main(String[] args) {
 
